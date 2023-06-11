@@ -99,7 +99,7 @@ input, select, textarea {
 	}
 
 	body {
-		background-color: #2e3141;
+		background-color: #03130b;
 		background-image: linear-gradient(to top, rgba(3, 20, 1, 0.1), rgba(3, 20, 1, 0.1)), url("../../images/bg.png");
 		background-size: auto,
  cover;
@@ -2212,7 +2212,7 @@ input, select, textarea {
 		input[type="tel"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color: #5b6ba6;
+			border-color: #5ba65b;
 		}
 
 	select {
@@ -2880,7 +2880,7 @@ input, select, textarea {
 		text-align: center;
 		text-decoration: none;
 		text-transform: uppercase;
-		white-space: nowrap;
+		white-space: pre-wrap;
 	}
 
 		input[type="submit"]:hover,
@@ -3465,7 +3465,7 @@ input, select, textarea {
 
 			#banner {
 				padding: 7em 0 8.25em 0 ;
-				background-color: #2e3141;
+				background-color: #03130b;
 				background-image: linear-gradient(to top, rgba(3, 20, 1, 0.1), rgba(3, 20, 1, 0.1)), url("../../images/bg.png");
 				background-size: auto,
  cover;
@@ -3577,7 +3577,7 @@ input, select, textarea {
 
 		#wrapper > header {
 			padding: 9em 0 6.25em 0 ;
-			background-color: #2e3141;
+			background-color: #03130b;
 			background-image: linear-gradient(to top, rgba(3, 20, 1, 0.1), rgba(3, 20, 1, 0.1)), url("../../images/bg.png");
 			background-size: auto,
  cover;
@@ -4070,7 +4070,7 @@ input, select, textarea {
 	@media screen and (max-width: 1280px) {
 
 		#footer {
-			background-color: #2e3141;
+			background-color: #03130b;
 			background-image: linear-gradient(to top, rgba(3, 20, 1, 0.1), rgba(3, 20, 1, 0.1)), url("../../images/bg.png");
 			background-size: auto,
  cover;
