@@ -3127,7 +3127,7 @@ input, select, textarea {
 					margin-left: 0.75em;
 				}
 
-				#header nav a[href="#menu"] {
+				#header nav a[href="#footer"] {
 					text-decoration: none;
 					-moz-transition: background-color 0.2s ease-in-out;
 					-webkit-transition: background-color 0.2s ease-in-out;
@@ -3138,7 +3138,7 @@ input, select, textarea {
 					padding: 0 1.35em;
 				}
 
-					#header nav a[href="#menu"]:before {
+					#header nav a[href="#footer"]:before {
 						-moz-osx-font-smoothing: grayscale;
 						-webkit-font-smoothing: antialiased;
 						display: inline-block;
@@ -3151,16 +3151,11 @@ input, select, textarea {
 						font-weight: 900;
 					}
 
-					#header nav a[href="#menu"]:before {
-						content: '\f0c9';
-						line-height: inherit;
-					}
-
-					#header nav a[href="#menu"]:hover {
+					#header nav a[href="#footer"]:hover {
 						background-color: rgba(255, 255, 255, 0.025);
 					}
 
-					#header nav a[href="#menu"]:active {
+					#header nav a[href="#footer"]:active {
 						background-color: rgba(255, 255, 255, 0.075);
 					}
 
